@@ -1,0 +1,7 @@
+{"level":"info","message":"Hola este es un mensjae informativo","service":"user-service"}
+{"level":"warn","message":"Esto es un mensaje de advertencia","service":"user-service"}
+{"level":"error","message":"Esto es un error","service":"user-service"}
+{"level":"info","message":"Hola este es un mensjae informativo"}
+{"level":"debug","message":"Esto es un mensaje de debug"}
+{"level":"warn","message":"Esto es un mensaje de advertencia"}
+{"level":"error","message":"Esto es un error"}
